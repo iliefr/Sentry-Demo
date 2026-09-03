@@ -1,0 +1,5 @@
+sentry-sdk>=2.20.0
+requests==2.32.3
+schedule==1.2.2
+faker==25.8.0
+python-dotenv==1.0.1
